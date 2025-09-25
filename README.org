@@ -12,6 +12,6 @@
 - children->matrix
 * prototile-extra
 - decoration
--- list of points/polygon
--- renderer-specific decoration (svg,hpgl...)
+ - list of points/polygon
+ - renderer-specific decoration (svg,hpgl...)
 * tiling
