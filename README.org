@@ -1,0 +1,17 @@
+* tile-basic
+- prototile relation
+- position
+- parent
+- children
+* tile-extra
+- interactive functions (renderer-specific)
+- decoration
+* prototile-basic
+- transform matrix
+- position
+- children->matrix
+* prototile-extra
+- decoration
+-- list of points/polygon
+-- renderer-specific decoration (svg,hpgl...)
+* tiling
